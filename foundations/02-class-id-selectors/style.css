@@ -1,0 +1,19 @@
+.standard {
+  background-color: #ffc0cb;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#el1 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#el2 {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
